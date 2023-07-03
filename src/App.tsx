@@ -18,7 +18,7 @@ function App() {
         >
           <span>Username</span>
           <input
-            type="text"
+            type="email"
             className="border rounded-md outline outline-2 outline-gray-600 w-full p-2"
           />
         </label>
